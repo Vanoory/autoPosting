@@ -1,0 +1,18 @@
+{
+  "morning_start": 8,
+  "morning_end": 10,
+  "news_start": 10,
+  "news_end": 20,
+  "news_per_day": 2,
+  "variants_per_slot": 3,
+  "news_slots": [
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 16,
+      "end": 20
+    }
+  ]
+}
